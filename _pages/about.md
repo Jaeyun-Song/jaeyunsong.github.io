@@ -11,11 +11,9 @@ redirect_from:
 I'm a Ph.D student at <a href="https://mli.kaist.ac.kr/" style="color: #000; text-decoration:none">**Machine Learning and Intelligence Lab (MLILAB)**</a> in KAIST, under the supervision of <a href="https://sites.google.com/site/yangeh/" style="color: #000; text-decoration: none;">**Prof. Eunho Yang**</a>.
 
 My research interest includes:
-- Video Generation
 - Graph Representation Learning
+- Interpretablility
 - Class-Imbalance Problem
-- Automatic Speech Recognition
-
 
 ## Education
 - **Ph.D.** in Graduate School of AI, <a href="https://www.kaist.ac.kr/en/" style="color: #000; text-decoration: none;">**Korea Advanced Institute of Science and Technology (KAIST)**</a>, <font size="3">Mar. 2021 - Present</font> 
@@ -49,7 +47,6 @@ Joonhyung Park\*, <u>Jaeyun Song</u>\*, Eunho Yang (\*: equal contribution) \\
 ## Work Experiences
 - Intern, <a href="https://www.skhynix.com/" style="color: #000; text-decoration: none;">**SK Hynix**</a>, Icheon, South Korea (Dec 2018 - Feb 2019)
 - Research Intern, <a href="http://ailab.kaist.ac.kr/" style="color: #000; text-decoration: none;">**KAIST AIPR Lab**</a>, Daejeon, South Korea (Jun 2018 - Aug 2018)
-- Military Service, <a href="https://8tharmy.korea.army.mil/site/about/katusa-soldier-program.asp" style="color: #000; text-decoration: none;">**ROK Army KATUSA**</a>, Seoul, South Korea (Apr 2014 - Jan 2016)
 
 
 ## Projects
