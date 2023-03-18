@@ -13,8 +13,7 @@ I'm a Ph.D student at <a href="https://mli.kaist.ac.kr/" style="color: #000; tex
 My research interest includes:
 - Graph Representation Learning
 - Interpretablility
-- Debiasing
-- Class-Imbalance Problem
+- Robust ML
 
 ## Education
 - **Ph.D.** in Graduate School of AI, <a href="https://www.kaist.ac.kr/en/" style="color: #000; text-decoration: none;">**Korea Advanced Institute of Science and Technology (KAIST)**</a>, <font size="3">Mar. 2021 - Present</font> 
