@@ -25,7 +25,7 @@ My research interest includes:
 
 ## Conference Publications
 - **TAM: Topology-Aware Margin Loss for Class-Imbalanced Node Classification** \\
-**<u>Jaeyun Song</u>\***, Joonhyung Park\*, Eunho Yang (\*: equal contribution) \\
+<u>Jaeyun Song</u>\*, Joonhyung Park\*, Eunho Yang (\*: equal contribution) \\
 <span style="color:darkred">**ICML**</span> 2022
 
 - **GraphENS: Neighbor-Aware Ego Network Synthesis for Class-Imbalanced Node Classification** \\
