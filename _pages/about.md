@@ -24,6 +24,10 @@ My research interest includes:
 
 
 ## Conference Publications
+- **RGE: A Repulsive Graph Rectification for Node Classification via Influence** \\
+<u>Jaeyun Song</u>\*, SungYub Kim\*, Eunho Yang (\*: equal contribution) \\
+<span style="color:darkred">**ICML**</span> 2023
+
 - **WeavSpeech: Data Augmentation Strategy for Automatic Speech Recognition via Semantic-Aware Weaving** \\
 Kyusung Seo, Joonhyung Park, <u>Jaeyun Song</u>, Eunho Yang \\
 <span style="color:darkred">**ICASSP**</span> 2023
