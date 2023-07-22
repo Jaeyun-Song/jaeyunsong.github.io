@@ -12,8 +12,8 @@ I'm a Ph.D student at <a href="https://mli.kaist.ac.kr/" style="color: #000; tex
 
 My research interest includes:
 - Graph Representation Learning
-- Interpretablility
-- Robust ML
+- Point Clouds
+- Debiasing
 
 ## Education
 - **Ph.D.** in Graduate School of AI, <a href="https://www.kaist.ac.kr/en/" style="color: #000; text-decoration: none;">**Korea Advanced Institute of Science and Technology (KAIST)**</a>, <font size="3">Mar. 2021 - Present</font> 
@@ -25,6 +25,7 @@ My research interest includes:
 
 ## Conference Publications
 - **RGE: A Repulsive Graph Rectification for Node Classification via Influence** \\
+<a href="https://proceedings.mlr.press/v162/song22a/song22a.pdf" style="color: #000; text-decoration: none;">[paper]</a> \\
 <u>Jaeyun Song</u>\*, SungYub Kim\*, Eunho Yang (\*: equal contribution) \\
 <span style="color:darkred">**ICML**</span> 2023
 
@@ -55,10 +56,8 @@ Joonhyung Park\*, <u>Jaeyun Song</u>\*, Eunho Yang (\*: equal contribution) \\
 
 ## Work Experiences
 - Intern, <a href="https://www.skhynix.com/" style="color: #000; text-decoration: none;">**SK Hynix**</a>, Icheon, South Korea (Dec 2018 - Feb 2019)
-- Research Intern, <a href="http://ailab.kaist.ac.kr/" style="color: #000; text-decoration: none;">**KAIST AIPR Lab**</a>, Daejeon, South Korea (Jun 2018 - Aug 2018)
-
 
 ## Projects
-- Development of Technology for Content Creation and Automated Correction Based on Deep Learning, **Naver AI**, 2021-Present
+- Development of Technology for Content Creation and Automated Correction Based on Deep Learning, **Naver AI**, 2021-2023
 
-- Development of brain-inspired AI with human-like intelligence, **IITP**, 2019-Present
+- Development of brain-inspired AI with human-like intelligence, **IITP**, 2019-2022
