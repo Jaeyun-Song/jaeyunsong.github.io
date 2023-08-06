@@ -25,7 +25,8 @@ My research interest includes:
 
 ## Conference Publications
 - **RGE: A Repulsive Graph Rectification for Node Classification via Influence** \\
-<a href="https://openreview.net/pdf?id=OcKwZhPwHA" style="color: #000; text-decoration: none;">[paper]</a> \\
+<a href="https://openreview.net/pdf?id=OcKwZhPwHA" style="color: #000; text-decoration: none;">[paper]</a>
+<a href="https://github.com/Jaeyun-Song/RGE" style="color: #000; text-decoration: none;">[code]</a> \\
 <u>Jaeyun Song</u>\*, SungYub Kim\*, Eunho Yang (\*: equal contribution) \\
 <span style="color:darkred">**ICML**</span> 2023
 
@@ -34,12 +35,14 @@ Kyusung Seo, Joonhyung Park, <u>Jaeyun Song</u>, Eunho Yang \\
 <span style="color:darkred">**ICASSP**</span> 2023
 
 - **TAM: Topology-Aware Margin Loss for Class-Imbalanced Node Classification** \\
-<a href="https://proceedings.mlr.press/v162/song22a/song22a.pdf" style="color: #000; text-decoration: none;">[paper]</a> \\
+<a href="https://proceedings.mlr.press/v162/song22a/song22a.pdf" style="color: #000; text-decoration: none;">[paper]</a>
+<a href="https://github.com/Jaeyun-Song/TAM" style="color: #000; text-decoration: none;">[code]</a> \\
 <u>Jaeyun Song</u>\*, Joonhyung Park\*, Eunho Yang (\*: equal contribution) \\
 <span style="color:darkred">**ICML**</span> 2022
 
 - **GraphENS: Neighbor-Aware Ego Network Synthesis for Class-Imbalanced Node Classification** \\
-<a href="https://openreview.net/forum?id=MXEl7i-iru" style="color: #000; text-decoration: none;">[paper]</a> \\
+<a href="https://openreview.net/forum?id=MXEl7i-iru" style="color: #000; text-decoration: none;">[paper]</a>
+<a href="https://github.com/JoonHyung-Park/GraphENS" style="color: #000; text-decoration: none;">[code]</a> \\
 Joonhyung Park\*, <u>Jaeyun Song</u>\*, Eunho Yang (\*: equal contribution) \\
 <span style="color:darkred">**ICLR**</span> 2022
 
@@ -61,3 +64,7 @@ Joonhyung Park\*, <u>Jaeyun Song</u>\*, Eunho Yang (\*: equal contribution) \\
 - Development of Technology for Content Creation and Automated Correction Based on Deep Learning, **Naver AI**, 2021-2023
 
 - Development of brain-inspired AI with human-like intelligence, **IITP**, 2019-2022
+
+## Academic Services
+- Conference Reviewer: NeurIPS 2022, ICML 2023, NeurIPS 2023
+
