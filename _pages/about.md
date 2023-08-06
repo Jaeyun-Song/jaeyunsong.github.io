@@ -31,6 +31,7 @@ My research interest includes:
 <span style="color:darkred">**ICML**</span> 2023
 
 - **WeavSpeech: Data Augmentation Strategy for Automatic Speech Recognition via Semantic-Aware Weaving** \\
+<a href="https://ieeexplore.ieee.org/document/10097196" style="color: #000; text-decoration: none;">[paper]</a> \\
 Kyusung Seo, Joonhyung Park, <u>Jaeyun Song</u>, Eunho Yang \\
 <span style="color:darkred">**ICASSP**</span> 2023
 
