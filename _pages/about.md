@@ -10,10 +10,11 @@ redirect_from:
 
 I'm a Ph.D student at <a href="https://mli.kaist.ac.kr/" style="color: #000; text-decoration:none">**Machine Learning and Intelligence Lab (MLILAB)**</a> in KAIST, under the supervision of <a href="https://sites.google.com/site/yangeh/" style="color: #000; text-decoration: none;">**Prof. Eunho Yang**</a>.
 
-My research interest includes:
-- Graph Representation Learning
-- Point Clouds
-- Debiasing
+My research interest includes addressing the challenges in multiple domains and combining those domains:
+- Graph 
+- Point clouds
+- Video
+- Speech
 
 ## Education
 - **Ph.D.** in Graduate School of AI, <a href="https://www.kaist.ac.kr/en/" style="color: #000; text-decoration: none;">**Korea Advanced Institute of Science and Technology (KAIST)**</a>, <font size="3">Mar. 2021 - Present</font> 
@@ -67,5 +68,5 @@ Joonhyung Park\*, <u>Jaeyun Song</u>\*, Eunho Yang (\*: equal contribution) \\
 - Development of brain-inspired AI with human-like intelligence, **IITP**, 2019-2022
 
 ## Academic Services
-- Conference Reviewer: NeurIPS 2022, ICML 2023, NeurIPS 2023
+- Conference Reviewer: NeurIPS 2022, ICML 2023, NeurIPS 2023, ICLR 2024
 
