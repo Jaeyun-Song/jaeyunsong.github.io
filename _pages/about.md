@@ -25,6 +25,10 @@ My research interest includes addressing the challenges in multiple domains and 
 
 
 ## Conference Publications
+- **A Simple Remedy for Dataset Bias via Self-Influence: A Mislabeled Sample Perspective** \\
+<u>Yeonsung Jung\*, Jaeyun Song</u>\*, June Yong Yang, Jin-Hwa Kim, Sung-Yub Kim, Eunho Yang (\*: equal contribution) \\
+<span style="color:darkred">**NeurIPS**</span> 2024
+
 - **RGE: A Repulsive Graph Rectification for Node Classification via Influence** \\
 <a href="https://openreview.net/pdf?id=OcKwZhPwHA" style="color: #000; text-decoration: none;">[paper]</a>
 <a href="https://github.com/Jaeyun-Song/RGE" style="color: #000; text-decoration: none;">[code]</a> \\
