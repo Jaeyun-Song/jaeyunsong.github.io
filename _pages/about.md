@@ -72,5 +72,5 @@ Joonhyung Park\*, <u>Jaeyun Song</u>\*, Eunho Yang (\*: equal contribution) \\
 - Development of brain-inspired AI with human-like intelligence, **IITP**, 2019-2022
 
 ## Academic Services
-- Conference Reviewer: NeurIPS 2022, ICML 2023, NeurIPS 2023, ICLR 2024
+- Conference Reviewer: NeurIPS 2022-2024, ICML 2023-2024, ICLR 2024
 
