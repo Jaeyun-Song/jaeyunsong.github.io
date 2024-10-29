@@ -10,10 +10,7 @@ redirect_from:
 
 I'm a Ph.D student at <a href="https://mli.kaist.ac.kr/" style="color: #000; text-decoration:none">**Machine Learning and Intelligence Lab (MLILAB)**</a> in KAIST, under the supervision of <a href="https://sites.google.com/site/yangeh/" style="color: #000; text-decoration: none;">**Prof. Eunho Yang**</a>.
 
-My research interest includes addressing the challenges in multiple domains and combining those domains:
-- Generative Model (Large Language Model and Diffusion Model)
-- Privacy-Preserving Machine Learning
-- Robustness
+My research goal is to enhance privacy preservation and robustness in the training and inference of large generative models. Initially, I focused on addressing robustness challenges, such as class imbalance (ICLR'22, ICML'22), structural noise in GNNs (ICML'23), and the dataset bias (NeurIPS'24). Recently, my work has shifted toward advancing privacy-preserving machine learning, where I proposed an efficient private inference method for large diffusion models. My current research aims to develop an efficient private inference method for large language models.
 
 ## Education
 - **Ph.D.** in Graduate School of AI, <a href="https://www.kaist.ac.kr/en/" style="color: #000; text-decoration: none;">**Korea Advanced Institute of Science and Technology (KAIST)**</a>, <font size="3">Mar. 2021 - Present</font> 
@@ -71,5 +68,5 @@ Joonhyung Park\*, <u>Jaeyun Song</u>\*, Eunho Yang (\*: equal contribution) \\
 - Development of brain-inspired AI with human-like intelligence, **IITP**, 2019-2022
 
 ## Academic Services
-- Conference Reviewer: NeurIPS 2022-2024, ICML 2023-2024, ICLR 2024
+- Conference Reviewer: NeurIPS 2022-2024, ICML 2023-2024, ICLR 2024-2025
 
